@@ -2,7 +2,7 @@
 
 # Baidu-tieba-university
 Used python2 for this project.
-Collect Baidu-tieba university infoamtion for practice.
+<br>Collect Baidu-tieba university infoamtion for practice.
 <br>
 ## Function Introduce
 ### 1. Get_university_list.py
@@ -15,10 +15,10 @@ Collect Baidu-tieba university infoamtion for practice.
   采集大学贴吧的发帖数量以及会员人数，存入本地的csv文件并分析。
   <br>
 ### 4. Collect_tieba_items_title_to_file.py
-  采集大学贴吧前五页主题帖的标题/作者/回复数量等信息，并按文件夹分类存到本地。
+  多线程采集大学贴吧前五页主题帖的标题/作者/回复数量等信息，并按文件夹分类存到本地。
   <br>
 ### 5. Collect_tieba_items_title_to_MySQL.py
-  采集大学贴吧前五页主题帖的标题/作者/回复数量等信息，存入MySQL数据库。
+  多线程采集大学贴吧前五页主题帖的标题/作者/回复数量等信息，存入MySQL数据库。
   <br>
   
 
